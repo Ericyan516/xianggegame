@@ -1,0 +1,7 @@
+Logs/
+Library/
+Packages/
+UserSettings/
+Temp/
+*.suo
+*.user
