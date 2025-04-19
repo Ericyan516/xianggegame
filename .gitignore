@@ -13,3 +13,6 @@ Temp/
 Packages/
 Logs/
 Library/
+git-filter-repo/
+sh-keygen*
+get-pip.py
