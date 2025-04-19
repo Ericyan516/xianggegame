@@ -5,3 +5,11 @@ UserSettings/
 Temp/
 *.suo
 *.user
+ProjectSettings/
+*.user
+*.suo
+README.md~
+Temp/
+Packages/
+Logs/
+Library/
